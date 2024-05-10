@@ -1,6 +1,4 @@
-## sql-challenge 
-
-## Part 1: Data Modeling ##
+## Part 1: Data Modeling 🧩  ##
 
 
 

@@ -7,19 +7,27 @@
 ## Part 2: Data Engineering ⚙️ ##
 
 • All required columns are defined for each table
+
 • Columns are set to the correct data type
+
 • Primary Keys set for each table 
+
 • Correctly references related tables 
+
 • Tables are correctly related using Foreign Keys 
+
 • Correctly uses NOT NULL condition on necessary columns
+
 • Accurately defines value length for columns
 
 
+![image](https://github.com/CourtneyCole123/sql-challenge/assets/162069113/402d1248-b5bc-4ad8-95cd-115e1b7b58c2)
 
 
+![image](https://github.com/CourtneyCole123/sql-challenge/assets/162069113/04cea6b3-c44a-421f-9e43-8b389b9bcc57)
 
 
-
+![image](https://github.com/CourtneyCole123/sql-challenge/assets/162069113/b4cd633f-d55d-41b0-8178-f0a314f049e3)
 
 
 ## Part 3: Data Analysis 📈 ##

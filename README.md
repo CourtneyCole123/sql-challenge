@@ -1,9 +1,22 @@
 ## Part 1: Data Modeling 🧩  ##
 
+• Create an Entity Relationship Diagram is included or table schemas provided for all tables
 
 
-Data Modeling (10 points)
-Entity Relationship Diagram is included or table schemas provided for all tables (10 points)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Data Engineering (70 points)
 All required columns are defined for each table (10 points)
 Columns are set to the correct data type (10 points)

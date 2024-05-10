@@ -1,6 +1,6 @@
-## sql-challenge
+## sql-challenge 
 
-
+## Part 1: Data Modeling ##
 
 
 
